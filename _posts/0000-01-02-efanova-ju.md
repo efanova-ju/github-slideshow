@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "See you later alligator!"
 ---
-OH MY
+QA rules the world
 Use the left arrow to go back!
